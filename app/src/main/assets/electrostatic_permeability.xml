@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<constants_table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="schema_for_my_app" >
+    <substance>Вакуум</substance>
+    <value1>1</value1>
+
+    <substance>Воздух (при номинальных условиях)</substance>
+    <value1>1,000594</value1>
+
+    <substance>Керосин</substance>
+    <value1>2 &lt;sub&gt; 52 &lt;/sub&gt;</value1>
+
+    <substance>Парафин</substance>
+    <value1>2,1</value1>
+
+    <substance>Эбонит</substance>
+    <value1>2,6</value1>
+
+    <substance>Сера</substance>
+    <value1>4</value1>
+
+    <substance>Кварц</substance>
+    <value1>4,5</value1>
+
+    <substance>Стекло</substance>
+    <value1>5-10&lt;sub&gt;52&lt;/sub&gt;</value1>
+</constants_table>
